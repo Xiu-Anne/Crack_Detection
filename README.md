@@ -9,7 +9,7 @@ Grad-Cam for crack localization
 
 ![Cracks](https://user-images.githubusercontent.com/78222574/124027199-e3acd580-d9f2-11eb-96c5-7b162d2d8a8b.PNG)
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/78222574/124801856-9df28e80-df57-11eb-85f1-17f877452c5a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/78222574/124832771-757d8b00-df7d-11eb-920d-3933ecb30036.gif)
 
 - Detection2 (instance segmentation)
 
